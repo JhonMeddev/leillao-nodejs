@@ -41,27 +41,29 @@ Uso
 
 # Endpoints da API
 
+# Endpoints da API
+
 **USUARIO:**
-- GET USUARIOS: ![Endpoint](http://localhost:3000/usuarios/)
-- POST USUARIO: ![Endpoint](http://localhost:3000/usuarios/)
-- GET USUARIO BY ID: ![Endpoint](http://localhost:3000/usuarios/:id)
-- PUT ATUALIZAR USUARIO BY ID: ![Endpoint](http://localhost:3000/usuarios/:id)
-- DELETE USUARIO BY ID: ![Endpoint](http://localhost:3000/usuarios/:id)
+- GET USUARIOS: (http://localhost:3000/usuarios/)
+- POST USUARIO: (http://localhost:3000/usuarios/)
+- GET USUARIO BY ID: (http://localhost:3000/usuarios/:id)
+- PUT ATUALIZAR USUARIO BY ID: (http://localhost:3000/usuarios/:id)
+- DELETE USUARIO BY ID: (http://localhost:3000/usuarios/:id)
 
 **CARRO:**
-- GET CARROS: ![Endpoint](http://localhost:3000/carros/)
-- POST CARRO: ![Endpoint](http://localhost:3000/carros/)
-- GET CARRO BY ID: ![Endpoint](http://localhost:3000/carros/:id)
-- PUT ATUALIZAR CARRO BY ID: ![Endpoint](http://localhost:3000/carros/:id)
-- DELETE CARRO BY ID: ![Endpoint](http://localhost:3000/carros/:id)
+- GET CARROS: (http://localhost:3000/carros/)
+- POST CARRO: (http://localhost:3000/carros/)
+- GET CARRO BY ID: (http://localhost:3000/carros/:id)
+- PUT ATUALIZAR CARRO BY ID: (http://localhost:3000/carros/:id)
+- DELETE CARRO BY ID: (http://localhost:3000/carros/:id)
 
 **LANCE:**
-- GET LANCE: ![Endpoint](http://localhost:3000/lances/)
-- POST LANCE: ![Endpoint](http://localhost:3000/lances/)
-- GET LANCE BY ID: ![Endpoint](http://localhost:3000/lances/:id)
-- PUT ATUALIZAR LANCE BY ID: ![Endpoint](http://localhost:3000/lances/:id)
-- DELETE LANCE BY ID: ![Endpoint](http://localhost:3000/lances/:id)
-- PUT ENCERRAR LEILAO: ![Endpoint](http://localhost:3000/lances/encerrar/:carroId)
+- GET LANCE: (http://localhost:3000/lances/)
+- POST LANCE: (http://localhost:3000/lances/)
+- GET LANCE BY ID: (http://localhost:3000/lances/:id)
+- PUT ATUALIZAR LANCE BY ID: (http://localhost:3000/lances/:id)
+- DELETE LANCE BY ID: (http://localhost:3000/lances/:id)
+- PUT ENCERRAR LEILAO: (http://localhost:3000/lances/encerrar/:carroId)
 
 ## Imagens
 
