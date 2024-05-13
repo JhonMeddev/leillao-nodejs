@@ -39,7 +39,6 @@ Uso
 
     Use um cliente HTTP (como Postman ou Insomnia) para enviar solicitações para a API.
 
-# Endpoints da API
 
 # Endpoints da API
 
