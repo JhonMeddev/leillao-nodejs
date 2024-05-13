@@ -9,9 +9,7 @@ Instalação
 
     Clone o repositório:
 
-    bash
-
-git clone https://github.com/JhonMeddev/leillao-nodejs.git
+    git clone https://github.com/JhonMeddev/leillao-nodejs.git   
 
 Acesse o diretório do projeto:
 
