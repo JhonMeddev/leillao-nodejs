@@ -1,0 +1,31 @@
+{
+  "name": "leillao-nodejs",
+  "version": "1.0.0",
+  "description": "instacarro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/controllers/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhonMeddev/leillao-nodejs.git"
+  },
+  "author": "Jhonatan Medeiros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JhonMeddev/leillao-nodejs/issues"
+  },
+  "homepage": "https://github.com/JhonMeddev/leillao-nodejs#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/mongoose": "^5.11.97",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
